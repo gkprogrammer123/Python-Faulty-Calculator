@@ -1,7 +1,7 @@
 """
 Falty Calculator
 """
-
+print("Welcome to our Faulty Calculator..")
 print("\t\t\t\t\t\t\t\t Exam Calculator\n ")
 print("NOTE : Don't calculate the number which are already in questions\n")
 
